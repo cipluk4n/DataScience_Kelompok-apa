@@ -3,6 +3,7 @@
 Proyek Data Science · Kelompok Apa
 
 | NIM | NAMA | Kelas Praktikum | Kelas Teori |
+| --- | --- | --- | --- |  
 | 123240074 | Selgy Pradista Risqi | IF-I | IF-E |
 | 123240082 | Muhammad Zidane Zulfikar | IF-C | IF-E |
 | 123240099 | Asiil Nasywa Rabbani | IF-G | IF-E |
