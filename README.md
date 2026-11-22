@@ -9,7 +9,7 @@ Proyek Data Science · Kelompok Apa
 | 123240099 | Asiil Nasywa Rabbani | IF-G | IF-E |
 | 123240229 | Riesky Tanto Firmansyah | IF-F | IF-E |
 
-Proyek ini menganalisis hubungan ketepatan pengiriman dengan skor ulasan pelanggan dan memprediksi risiko keterlambatan pesanan di marketplace Olist. Notebook utama mengikuti alur CRISP-DM dari Business Understanding sampai Evaluation. [Buka notebook](olist_crisp_dm.ipynb)
+Proyek ini menganalisis hubungan ketepatan pengiriman dengan skor ulasan pelanggan dan memprediksi risiko keterlambatan pesanan di marketplace Olist. Proses eksplorasi dan percobaan dilakukan di branch master. Branch ini berisi notebook final yang sudah dirapikan mengikuti alur CRISP-DM. Notebook utama mengikuti alur CRISP-DM dari Business Understanding sampai Evaluation. [Buka notebook](olist_crisp_dm.ipynb)
 
 ## Business Understanding
 
