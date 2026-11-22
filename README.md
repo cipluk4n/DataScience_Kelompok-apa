@@ -1,6 +1,6 @@
 # Analisis dan Prediksi Customer Satisfaction Terhadap Karakteristik Pengiriman dan Ulasan pada E-Commerce
 
-Proyek Data Science · Kelompok Apa
+Proyek Data Science · Kelompok Apa (56)
 
 | NIM | NAMA | Kelas Praktikum | Kelas Teori |
 | --- | --- | --- | --- |  
